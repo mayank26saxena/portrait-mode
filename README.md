@@ -53,8 +53,10 @@ python portrait-mode.py -i samples/input-3.jpg
 - [ ] Develop API.
 - [ ] Develop website.
 
-## Contributions
-All patches are welcome!
+## Developers
+This project has been developed by:
+- [Mudit Saxena](https://github.com/mudit9)
+- [Mayank Saxena](https://github.com/mayank26saxena)
 
 ## License
 MIT License - see the [LICENSE](https://github.com/mayank26saxena/portrait-mode/blob/master/LICENSE) file for details.
