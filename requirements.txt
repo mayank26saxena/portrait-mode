@@ -1,0 +1,5 @@
+tensorflow
+numpy
+six
+Pillow
+opencv-python
