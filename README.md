@@ -42,6 +42,13 @@ python portrait-mode.py -i samples/input-2.jpg
 
 <img src="samples/input-2.jpg" width="425"/> <img src="samples/input-2-portrait.jpg" width="425"/> 
 
+```shell
+python portrait-mode.py -i samples/input-3.jpg
+```
+
+<img src="samples/input-3.jpg" width="425"/> <img src="samples/input-3-portrait.jpg" width="425"/> 
+
+
 ## To Do
 - [ ] Develop API.
 - [ ] Develop website.
