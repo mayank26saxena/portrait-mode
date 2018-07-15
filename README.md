@@ -31,16 +31,16 @@ The script outputs one image in the same directory with the name: `input-1-portr
 ## Examples
 
 ```shell
-python3 person_blocker.py -i images/img1.jpg
+python portrait-mode.py -i samples/input-1.jpg
 ```
 
-![img1](samples/input-1-portrait.jpg)
+<img src="samples/input-1.jpg" width="425"/> <img src="samples/input-1-portrait.jpg" width="425"/> 
 
 ```shell
-python3 person_blocker.py -i images/img2.jpg -c '#c0392b' -o 'giraffe'
+python portrait-mode.py -i samples/input-2.jpg
 ```
 
-![img2](samples/input-2-portrait.jpg)
+<img src="samples/input-2.jpg" width="425"/> <img src="samples/input-2-portrait.jpg" width="425"/> 
 
 ## To Do
 - [ ] Develop API.
