@@ -2,7 +2,7 @@
 This project implements the portrait mode effect on images using Neural Networks.
 
 ## How it works?
-Traditionally, the portrait mode effect has been achieved using 2 lenses which detect ojects present in the foreground and in the background.
+Traditionally, the portrait mode effect has been achieved using 2 lenses which detect objects present in the foreground and in the background.
 With advances in the field of ML, this effect can also be implemented using only image segmentation. Using the pretrained [DeepLab-v3+](https://github.com/tensorflow/models/tree/master/research/deeplab) open source model, we can find the objects in the foreground of the image and blur the background to replicate this effect.
 
 Check out the demo website - [Demo](http://portraitmode.herokuapp.com/) (Source Code: [https://github.com/mudit9/portraitmode-flask](https://github.com/mudit9/portraitmode-flask))
